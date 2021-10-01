@@ -1,0 +1,8 @@
+i = 0
+
+while (i < 30):
+    if( i % 2 == 0):
+        pass
+    else:
+        print(i, end='')
+    i += 1
